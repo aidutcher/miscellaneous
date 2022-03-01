@@ -1,0 +1,20 @@
+foyer
+kitchen
+study
+living room
+library
+bathroom
+bedroom
+cavern
+tunnel
+passage
+forge
+laboratory
+garden
+elevator
+observatory
+balcony
+attic
+basement 
+studio 
+interrogation chamber
